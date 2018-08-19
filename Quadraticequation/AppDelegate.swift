@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Quadraticequation
 //
-//  Created by reiji kobayashi on 2018/08/18.
+//  
 //  Copyright © 2018年 reud. All rights reserved.
 //
 
